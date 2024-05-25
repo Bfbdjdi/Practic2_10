@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My list of Cars</string>
+    <string name="application_name">CarBase</string>
+    <string name="task_text">Enter auto\'s data to save</string>
+    <string name="model">Car model</string>
+    <string name="number">Car\'s number, X000XX</string>
+    <string name="year">Manufacture year</string>
+    <string name="save">Save</string>
+    <string name="show">Display list</string>
+    <string name="incorrect_value">Wrong input</string>
+    <string name="insert_error">Error occurred while adding the entry</string>
+    <string name="insert_success">Element saved</string>
+    <string name="home">Home</string>
+</resources>
